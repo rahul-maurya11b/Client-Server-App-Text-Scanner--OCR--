@@ -67,6 +67,22 @@ Result in Table form
 
 PS D:\socket programming>
 
+## Output Image
+
+![alt text](https://github.com/rahul-maurya11b/Client-Server-App-Text-Scanner-OCR-/blob/master/result.jpeg)
+
+## Conclusion.
+Text recognition is greatly dependent the condition of
+handwriting the contrast, Brightness ratios in image and
+many more factors.
+To detect the text very accurately our model should be more
+robust, and fault tolerant in any condition at the same time
+our model should be fast.
+So, with the fast and accurate model, server can send data to
+client very fast and accurate. So, communication will be
+faster.
+With this conclusion summing-up my project.
+
 
 
 
